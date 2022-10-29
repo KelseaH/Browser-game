@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #3e6545;
+}
+h1 {
+  text-align: center;
+  color: #ecffb1;
+}
+.cell {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+.row {
+  display: inline-block;
+}
+.blue {
+  background-color: #82ceda;
+}
+.yellow {
+  background-color: #ecffb1;
+}
+.board {
+  text-align: center;
+}
+.checker {
+  margin: 10px;
+  border-radius: 50%;
+}
+.purple-checker {
+  background-color: #845EC2;
+  width: 70px;
+  height: 70px;
+}
+.orange-checker {
+  background-color: #ff895d;
+  width: 70px;
+  height: 70px;
+}
