@@ -1,0 +1,2 @@
+# Browser-game
+My inspiration for this game came from my childhood. The controls are pretty starightforward; click to move checker pieces. How the game works is each player moves their choice of checker piece, only allowed to move diagonally, and must jump the opponent when necessary. At the end the winner is the one with most of the opponents pieces or the last one on the board. Reguarding functionality, the pieces do not move yet and it doesn't keep score.  

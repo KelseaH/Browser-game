@@ -1,0 +1,50 @@
+html, body {
+  height: 50%;
+  width: 55%;
+  background-color: #3e6545;
+}
+h1 {
+  text-align: center;
+  color: #ecffb1;
+}
+.cell {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+}
+.row {
+  display: inline-block;
+}
+.blue {
+  background-color: #82ceda;
+}
+.yellow {
+  background-color: #ecffb1;
+}
+.board {
+  text-align: center;
+}
+.checker {
+  margin: 10px;
+  border-radius: 50%;
+}
+.purple-checker {
+  background-color: #845EC2;
+  width: 35px;
+  height: 35px;
+}
+.orange-checker {
+  background-color: #ff895d;
+  width: 35px;
+  height: 35px;
+}
+.purple-turn-text {
+  background-color: #ecffb1;
+}
+.oranges-turn-text {
+  background-color: #ecffb1;
+}
+.score {
+  background-color: #ecffb1;
+  
+}
